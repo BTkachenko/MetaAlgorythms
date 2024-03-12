@@ -1,0 +1,3 @@
+Average of 10-minimum groups: 34364.10721618044
+Average of 50-minimum groups: 33732.27797807908
+Overall minimum: 32296.40739413742

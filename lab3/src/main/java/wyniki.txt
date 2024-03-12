@@ -1,0 +1,4 @@
+1483
+Długość najlepszej trasy: 4917.897365906144
+Czas wykonania: 1361699ms
+

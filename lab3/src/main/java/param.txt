@@ -1,0 +1,32 @@
+ // Parametry algorytmu wyspowego genetycznego
+        int populationSize = 30; // Rozmiar populacji
+        int numberOfIslands = 10; // Liczba wysp
+        int epochs = 5; // Liczba epok
+        int iterationsPerEpoch = 10; // Liczba iteracji w epoce
+        double crossoverProbability = 0.85; // Prawdopodobieństwo krzyżowania
+        double mutationRate = 0.5; // Prawdopodobieństwo mutacji
+
+        Długość najlepszej trasy: 3996.6393357905654
+        Czas wykonania: 1650059ms
+
+// Parametry algorytmu wyspowego genetycznego
+        int populationSize = 30; // Rozmiar populacji
+        int numberOfIslands = 30; // Liczba wysp
+        int epochs = 5; // Liczba epok
+        int iterationsPerEpoch = 50; // Liczba iteracji w epoce
+        double crossoverProbability = 0.85; // Prawdopodobieństwo krzyżowania
+        double mutationRate = 0.5; // Prawdopodobieństwo mutacji
+
+    Długość najlepszej trasy: 3896.4033613235624
+    Czas wykonania: 2705679ms
+
+ // Parametry algorytmu wyspowego genetycznego
+        int populationSize = 30; // Rozmiar populacji
+        int numberOfIslands = 30; // Liczba wysp
+        int epochs = 5; // Liczba epok
+        int iterationsPerEpoch = 10; // Liczba iteracji w epoce
+        double crossoverProbability = 0.85; // Prawdopodobieństwo krzyżowania
+        double mutationRate = 0.5; // Prawdopodobieństwo mutacji
+
+        Długość najlepszej trasy: 3996.6393357905654
+        Czas wykonania: 1650059ms
